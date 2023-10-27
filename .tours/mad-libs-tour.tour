@@ -1,0 +1,27 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "mad-libs-tour",
+  "steps": [
+    {
+      "file": "mad-libs.py",
+      "description": "importing the random module to generate text from the arrays",
+      "line": 1
+    },
+    {
+      "file": "mad-libs.py",
+      "description": "arrays of sentances that randomly generate for the story",
+      "line": 9
+    },
+    {
+      "file": "mad-libs.py",
+      "description": "variables used to enter the input based on the 8 parts of speech",
+      "line": 15
+    },
+    {
+      "file": "mad-libs.py",
+      "description": "use f strings to connect python lists and variable input to generate a story",
+      "line": 22
+    }
+  ],
+  "ref": "main"
+}
